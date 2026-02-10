@@ -87,6 +87,11 @@ Founder & Developer — Framelar
 
 ---
 
+### 📅 Project Information
+Created: Dec 20, 2025
+
+---
+
 ## 📄 License
 
 © 2025 Framelar  
